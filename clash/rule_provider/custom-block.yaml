@@ -25,6 +25,42 @@ payload:
   #- DOMAIN-SUFFIX,update.3j2y.com
   #- DOMAIN-SUFFIX,i.topbos.com
   #- DOMAIN-SUFFIX,update.topbos.com
+
+  # Analytics & Tracking
+  - DOMAIN-SUFFIX,adfstat.yandex.ru
+  - DOMAIN-SUFFIX,adfox.yandex.ru
+  - DOMAIN-SUFFIX,ads.youtube.com
+  - DOMAIN-SUFFIX,ads-api.tiktok.com
+  - DOMAIN-SUFFIX,ads-sg.tiktok.com
+  - DOMAIN-SUFFIX,api-adservices.apple.com
+  - DOMAIN-SUFFIX,api.bugsnag.com
+  - DOMAIN-SUFFIX,app.bugsnag.com
+  - DOMAIN-SUFFIX,app.getsentry.com
+  - DOMAIN-SUFFIX,appmetrica.yandex.ru
+  - DOMAIN-SUFFIX,books-analytics-events.apple.com
+  - DOMAIN-SUFFIX,browser.sentry-cdn.com
+  - DOMAIN-SUFFIX,business-api.tiktok.com
+  - DOMAIN-SUFFIX,claritybt.freshmarketer.com
+  - DOMAIN-SUFFIX,cs.luckyorange.net
+  - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,events.reddit.com
+  - DOMAIN-SUFFIX,freshmarketer.com
+  - DOMAIN-SUFFIX,fwtracks.freshmarketer.com
+  - DOMAIN-SUFFIX,geo.yahoo.com
+  - DOMAIN-SUFFIX,grs.hicloud.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
+  - DOMAIN-SUFFIX,log.byteoversea.com
+  - DOMAIN-SUFFIX,logbak.hicloud.com
+  - DOMAIN-SUFFIX,logservice.hicloud.com
+  - DOMAIN-SUFFIX,metrika.yandex.ru
+  - DOMAIN-SUFFIX,notes-analytics-events.apple.com
+  - DOMAIN-SUFFIX,notify.bugsnag.com
+  - DOMAIN-SUFFIX,sessions.bugsnag.com
+  - DOMAIN-SUFFIX,settings.luckyorange.net
+  - DOMAIN-SUFFIX,upload.luckyorange.net
+  - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   # CDN tracking
   - DOMAIN,dldgmpfyeblzc.cloudfront.net
   - DOMAIN,dn2sifz9m7tkk.cloudfront.net
@@ -33,14 +69,12 @@ payload:
   - DOMAIN,d19przo9d3f9zk.cloudfront.net
   - DOMAIN,d330if318qxsm2.cloudfront.net
   - DOMAIN,d3p6x1jquzbe0c.cloudfront.net
-
   # Misc
   - DOMAIN,encdn.ldmnq.com.w.alikunlun.com
   - DOMAIN,ins-o9iydzqn.ias.tencent-cloud.net
   - DOMAIN,lden.oss-ap-southeast-1.aliyuncs.com
   - DOMAIN,netease-publish-gdlgphs.w.alikunlun.com
   - DOMAIN,advertise.ldplayer.net.a.lahuashanbx.com
-
   # IP block
   - IP-CIDR,34.149.50.148/32
   - IP-CIDR,3.165.84.69/32
