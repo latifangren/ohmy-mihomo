@@ -12,7 +12,6 @@ payload:
 - DOMAIN-SUFFIX,sb.scorecardresearch.com
 - DOMAIN-SUFFIX,m1speedtest1.m1net.com  
 - DOMAIN-SUFFIX,speedsin.phoenixnap.com 
-- DOMAIN-SUFFIX,cdnst.net
 - DOMAIN-SUFFIX,cellmaps.com
 - DOMAIN-SUFFIX,ekahau.cloud
 - DOMAIN-SUFFIX,ekahau.com
@@ -23,7 +22,6 @@ payload:
 - DOMAIN-SUFFIX,speedtest.com
 - DOMAIN-SUFFIX,speedtestcustom.com
 - DOMAIN-SUFFIX,webtest.net
-- DOMAIN-SUFFIX,speed.cloudflare.com
 - DOMAIN-SUFFIX,speed.dler.io
 - DOMAIN-SUFFIX,openspeedtest.com
 - DOMAIN-SUFFIX,cachefly.net
@@ -40,12 +38,9 @@ payload:
 - DOMAIN-KEYWORD,throughput
 - DOMAIN-KEYWORD,downloadspeed
 - DOMAIN-KEYWORD,uploadspeed
-- DOMAIN-KEYWORD,netperf
-- DOMAIN-KEYWORD,iperf
 - DOMAIN-KEYWORD,ookla
 - DOMAIN-KEYWORD,measurementlab
 - DOMAIN-KEYWORD,fast
-- DOMAIN-KEYWORD,cloudflare
 - DOMAIN-KEYWORD,webtest
 - DOMAIN-KEYWORD,cellmaps
 - DOMAIN-KEYWORD,ekahau
