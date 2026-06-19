@@ -37,14 +37,19 @@ Kumpulan rule provider untuk Clash/Mihomo. Support HTTP & local mode.
 | `netflix.yaml` | Netflix | Dedicated rules |
 | `youtube.yaml` | YouTube | Dedicated rules |
 
-## Blocking Rules
+## Routing Rules
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `crypto.yaml` | Domain crypto/DeFi | Exchange, blockchain, DeFi (Binance, Coinbase, 1inch, dll) |
+| `ewallet.yaml` | Domain e-wallet & banking | Gojek, OVO, Dana, ShopeePay, BCA, BRI, Mandiri, dll |
+| `ai-gh.yaml` | AI & developer tools | ChatGPT, Claude, Gemini, GitHub, Huggingface, Cursor, dll |
+
+## Blocking
 
 | File | Isi | Deskripsi |
 |------|-----|-----------|
 | `porn.yaml` | Domain dewasa | Adult content blocker |
-| `crypto.yaml` | Domain crypto/trading | Blokir situs crypto/mining |
-| `ewallet.yaml` | Domain e-wallet/payment | Dompet digital & pembayaran |
-| `ai-gh.yaml` | AI & GitHub | Block AI tools & GitHub |
 
 ## Utility
 
