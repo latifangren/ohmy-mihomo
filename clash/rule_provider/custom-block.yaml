@@ -1,7 +1,50 @@
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 0
-# IP-CIDR: 0
-# IP-CIDR6: 0
-# TOTAL: 0
+#custom blocklist
 Payload:
+  #- IP-CIDR,202.158.60.224/24
+  #- DOMAIN-SUFFIX,report-api.mumuplayer.com
+  #- DOMAIN-SUFFIX,update.3j2y.com
+  #- DOMAIN-SUFFIX,i.topbos.com
+  #- DOMAIN-SUFFIX,update.topbos.com
+  
+  # LDPlayer & tracking
+  - DOMAIN,hmma.baidu.com
+  - DOMAIN,api.mumuglobal.com
+  - DOMAIN,ad.ldplayer.net
+  - DOMAIN,apiid.ldmnq.com
+  - DOMAIN,apien.ldmnq.com
+  - DOMAIN,ldcdn.ldmnq.com
+  - DOMAIN,en.ldplayer.net
+  - DOMAIN,encdn.ldmnq.com
+  - DOMAIN,api.ld-space.com
+  - DOMAIN,openrcv.baidu.com
+  - DOMAIN,storeen.ldmnq.com
+  - DOMAIN,usersdk.ldmnq.com
+  - DOMAIN,appstore.ldmnq.com
+  - DOMAIN,encdn.ldplayer.com
+  - DOMAIN,adabdapi.ldmnq.com
+  - DOMAIN,graph.facebook.com
+  - DOMAIN,android.bugly.qq.com
+  - DOMAIN,middledata.ldmnq.com
+  - DOMAIN,advertise.ldplayer.net
+  - DOMAIN,middledata.ldplayer.net
+
+  # CDN tracking
+  - DOMAIN,dldgmpfyeblzc.cloudfront.net
+  - DOMAIN,dn2sifz9m7tkk.cloudfront.net
+  - DOMAIN,de2pmm85odupd.cloudfront.net
+  - DOMAIN,dkf29paj6y8sk.cloudfront.net
+  - DOMAIN,d19przo9d3f9zk.cloudfront.net
+  - DOMAIN,d330if318qxsm2.cloudfront.net
+  - DOMAIN,d3p6x1jquzbe0c.cloudfront.net
+
+  # Misc
+  - DOMAIN,encdn.ldmnq.com.w.alikunlun.com
+  - DOMAIN,ins-o9iydzqn.ias.tencent-cloud.net
+  - DOMAIN,lden.oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN,netease-publish-gdlgphs.w.alikunlun.com
+  - DOMAIN,advertise.ldplayer.net.a.lahuashanbx.com
+
+  # IP block
+  - IP-CIDR,34.149.50.148/32
+  - IP-CIDR,3.165.84.69/32
+  - IP-CIDR,104.18.51.234/32
