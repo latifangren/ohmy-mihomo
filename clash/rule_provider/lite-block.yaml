@@ -4,7 +4,7 @@
 # IP-CIDR: 33
 # IP-CIDR6: 0
 # TOTAL: 15922
-Payload:
+payload:
  - DOMAIN-KEYWORD,adservice
  - DOMAIN-KEYWORD,adserver
  - DOMAIN-KEYWORD,advertising
