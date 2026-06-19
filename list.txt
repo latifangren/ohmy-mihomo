@@ -1,7 +1,0 @@
-https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-only/hosts
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
