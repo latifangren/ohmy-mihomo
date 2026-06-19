@@ -1,15 +1,59 @@
-# Rule Provider - AdBlock Rules
+# Rule Provider
 
-Kumpulan rule provider untuk adblocking di Clash/Mihomo.
+Kumpulan rule provider untuk Clash/Mihomo. Support HTTP & local mode.
 
-## Files
+## AdBlock Rules
 
 | File | Rules | Source | Deskripsi |
 |------|-------|--------|-----------|
-| `custom-block.yaml` | Kosong | - | Buat isi manual sesuai kebutuhan |
-| `lite-block.yaml` | ~16K | 2+ sources | Domain paling populer, muncul di banyak sumber |
-| `medium-block.yaml` | ~325K | blackmatrix7 + StevenBlack | Coverage medium dari 2 sumber utama |
-| `extreme-block.yaml` | ~334K | All sources | Semua sumber digabung, coverage maksimal |
+| `custom-block.yaml` | Kosong | - | Isi manual sesuai kebutuhan |
+| `lite-block.yaml` | ~16K | 2+ sources | Domain paling populer dari berbagai sumber |
+| `medium-block.yaml` | ~325K | blackmatrix7 + StevenBlack | Coverage medium |
+| `extreme-block.yaml` | ~334K | All sources | Coverage maksimal, semua sumber |
+
+## Game Rules
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `games.yaml` | Domain game | Superset game (Blizzard, Steam, Epic, dll) |
+| `battlenet.yaml` | Domain Blizzard/Battle.net | Dedicated rules |
+| `steam.yaml` | Domain Steam | Dedicated rules |
+| `epic-games.yaml` | Domain Epic Games | Dedicated rules |
+| `game-ports.yaml` | Port game | Collapsed port ranges dari portgames + portingame |
+
+## Social Media Rules
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `sosmed.yaml` | Multi-platform | Discord, TikTok, IG, WA, FB, Line, Telegram, Twitter, Spotify, Deezer, JOOX, Nodepay |
+| `tiktok.yaml` | TikTok | Dedicated rules |
+| `whatsapp.yaml` | WhatsApp | Dedicated rules |
+
+## Streaming & Media
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `streaming.yaml` | Multi-platform | Netflix, YouTube, dll |
+| `netflix.yaml` | Netflix | Dedicated rules |
+| `youtube.yaml` | YouTube | Dedicated rules |
+
+## Blocking Rules
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `porn.yaml` | Domain dewasa | Adult content blocker |
+| `crypto.yaml` | Domain crypto/trading | Blokir situs crypto/mining |
+| `ewallet.yaml` | Domain e-wallet/payment | Dompet digital & pembayaran |
+| `ai-gh.yaml` | AI & GitHub | Block AI tools & GitHub |
+
+## Utility
+
+| File | Isi | Deskripsi |
+|------|-----|-----------|
+| `meta.yaml` | Meta services | Facebook, Instagram, WhatsApp, Messenger, Oculus |
+| `speedtest.yaml` | Speedtest | Ookla speedtest servers |
+| `ldplayer.yaml` | LDPlayer | LDPlayer emulator |
+| `mumu.yaml` | MuMu | MuMu emulator |
 
 ## Source
 
@@ -21,10 +65,10 @@ Kumpulan rule provider untuk adblocking di Clash/Mihomo.
 ## Format
 
 ```yaml
-Payload:
-  - DOMAIN-KEYWORD,keyword
-  - DOMAIN-SUFFIX,domain.com
-  - IP-CIDR,1.2.3.4/32
+payload:
+ - DOMAIN-KEYWORD,keyword
+ - DOMAIN-SUFFIX,domain.com
+ - IP-CIDR,1.2.3.4/32
 ```
 
 ## Cara Pakai
