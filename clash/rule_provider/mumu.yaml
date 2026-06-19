@@ -1,0 +1,4 @@
+payload:
+  # Process rules (Clash Premium)
+  - PROCESS-NAME,MuMuVMMHeadless.exe
+  - PROCESS-NAME,MuMuNxDevice.exe

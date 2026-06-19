@@ -1,0 +1,109 @@
+﻿payload:
+  # Global / umum
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,spankbang.com
+  - DOMAIN-SUFFIX,tube8.com
+  - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,adultfriendfinder.com
+  - DOMAIN-SUFFIX,tnaflix.com
+  - DOMAIN-SUFFIX,eporner.com
+  - DOMAIN-SUFFIX,porntube.com
+  - DOMAIN-SUFFIX,keezmovies.com
+  - DOMAIN-SUFFIX,imagefap.com
+  - DOMAIN-SUFFIX,hentai.com
+  - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,metart.com
+  - DOMAIN-SUFFIX,reality-kings.com
+  - DOMAIN-SUFFIX,bangbros.com
+  - DOMAIN-SUFFIX,missav.ws
+  # CDN / subdomain umum
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,redcdn.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,cdn-tube.com
+  - DOMAIN-SUFFIX,cdn-xvideos.com
+  - DOMAIN-SUFFIX,thumb-cdn.com
+  - DOMAIN-SUFFIX,cdn.pornhub.com
+
+  # Alternatif / mirror populer
+  - DOMAIN-SUFFIX,xxxbunker.com
+  - DOMAIN-SUFFIX,porntrex.com
+  - DOMAIN-SUFFIX,beeg.com
+  - DOMAIN-SUFFIX,sunporno.com
+  - DOMAIN-SUFFIX,peekvids.com
+  - DOMAIN-SUFFIX,vumoo.com
+  - DOMAIN-SUFFIX,pornbattle.com
+  - DOMAIN-SUFFIX,hotmovies.com
+  - DOMAIN-SUFFIX,extremetube.com
+  - DOMAIN-SUFFIX,tube4k.com
+  - DOMAIN-SUFFIX,ixxx.com
+  - DOMAIN-SUFFIX,vporn.com
+  - DOMAIN-SUFFIX,slutload.com
+  - DOMAIN-SUFFIX,cliphunter.com
+  - DOMAIN-SUFFIX,pornx.org
+  - DOMAIN-SUFFIX,free-xxx.com
+  - DOMAIN-SUFFIX,pornolab.net
+  - DOMAIN-SUFFIX,sex.com
+
+  # Pencarian / indeks dewasa
+  - DOMAIN-SUFFIX,empflix.com
+  - DOMAIN-SUFFIX,drtuber.com
+  - DOMAIN-SUFFIX,pornforreview.com
+  - DOMAIN-SUFFIX,xtube.com
+  - DOMAIN-SUFFIX,yobt.com
+  - DOMAIN-SUFFIX,txxx.com
+  - DOMAIN-SUFFIX,gotporn.com
+  - DOMAIN-SUFFIX,porndig.com
+  - DOMAIN-SUFFIX,freeporn.com
+  - DOMAIN-SUFFIX,tubewolf.com
+  - DOMAIN-SUFFIX,pornheed.com
+  - DOMAIN-SUFFIX,tube2020.com
+  - DOMAIN-SUFFIX,mysexmovies.com
+
+  # keyword umum
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,missav
+  - DOMAIN-KEYWORD,xxx
+  - DOMAIN-KEYWORD,sex
+  - DOMAIN-KEYWORD,hentai
+  - DOMAIN-KEYWORD,adult
+  - DOMAIN-KEYWORD,nsfw
+  - DOMAIN-KEYWORD,nude
+  - DOMAIN-KEYWORD,naked
+  - DOMAIN-KEYWORD,sexy
+  - DOMAIN-KEYWORD,erotic
+  - DOMAIN-KEYWORD,cam
+  - DOMAIN-KEYWORD,live-sex
+  - DOMAIN-KEYWORD,sexcam
+  - DOMAIN-KEYWORD,webcam
+
+  # brand umum
+  - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-KEYWORD,xnxx
+  - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-KEYWORD,redtube
+  - DOMAIN-KEYWORD,youporn
+  - DOMAIN-KEYWORD,brazzers
+  - DOMAIN-KEYWORD,realitykings
+  - DOMAIN-KEYWORD,bangbros
+  - DOMAIN-KEYWORD,adultfriendfinder
+  - DOMAIN-KEYWORD,tube8
+  - DOMAIN-KEYWORD,spankbang
+
+  # regional / variasi
+  - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,bokep
+  - DOMAIN-KEYWORD,onlyfans
+  - DOMAIN-KEYWORD,spicy
+  - DOMAIN-KEYWORD,amateur
+  - DOMAIN-KEYWORD,homemade
+  - DOMAIN-KEYWORD,creampie
+  - DOMAIN-KEYWORD,anal
+  - DOMAIN-KEYWORD,lesbian
+  - DOMAIN-KEYWORD,milf
+  - DOMAIN-KEYWORD,mature

@@ -1,0 +1,134 @@
+payload:
+  # ChatGPT / OpenAI
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+
+  #AI
+  - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,models.dev
+  - DOMAIN-SUFFIX,api.cerebras.ai
+  - DOMAIN-SUFFIX,api.fireworks.ai
+  # XDA Main Website
+  - DOMAIN-SUFFIX,xda-developers.com
+  - DOMAIN-SUFFIX,xda-cdn.com
+
+  # XDA Forum
+  - DOMAIN-SUFFIX,forum.xda-developers.com
+  - DOMAIN-SUFFIX,xdaforums.com
+
+  # XDA Assets & Static Content
+  - DOMAIN-SUFFIX,static.xda-cdn.com
+  - DOMAIN-SUFFIX,media.xda-developers.com
+
+  # XDA Authentication & Services
+  - DOMAIN-SUFFIX,login.xda-developers.com
+  - DOMAIN-SUFFIX,account.xda-developers.com
+
+  # Cursor IDE
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.dev
+
+  # Huggingface
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,huggingfaceusercontent.com
+
+  # Replicate AI
+  - DOMAIN-SUFFIX,replicate.com
+  - DOMAIN-SUFFIX,replicate.delivery
+
+  # Claude (Anthropic AI)
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+  # Google AI (Gemini, Bard)
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+
+  # Microsoft AI (Copilot, Bing Chat)
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,edge.com
+
+  # Perplexity AI
+  - DOMAIN-SUFFIX,perplexity.ai
+
+  # Poe (Quora's AI Platform)
+  - DOMAIN-SUFFIX,poe.com
+
+  # Character.AI
+  - DOMAIN-SUFFIX,character.ai
+
+  # Midjourney
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-SUFFIX,cdn.midjourney.com
+
+  # DALL-E (OpenAI Image Generation)
+  - DOMAIN-SUFFIX,labs.openai.com
+
+  # Stable Diffusion
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,clipdrop.co
+
+  # Runway ML
+  - DOMAIN-SUFFIX,runwayml.com
+
+  # ElevenLabs (AI Voice)
+  - DOMAIN-SUFFIX,elevenlabs.io
+
+  # Notion AI
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notion.site
+
+  # Grammarly AI
+  - DOMAIN-SUFFIX,grammarly.com
+
+  # Jasper AI
+  - DOMAIN-SUFFIX,jasper.ai
+
+  # Copy.ai
+  - DOMAIN-SUFFIX,copy.ai
+
+  # Writesonic
+  - DOMAIN-SUFFIX,writesonic.com
+
+  # Surfer SEO AI
+  - DOMAIN-SUFFIX,surfer.com
+
+  # ForgeCode
+  - DOMAIN-SUFFIX,forgecode.dev
+
+  # Fallback untuk AI umum
+  - DOMAIN-KEYWORD,opencode
+  - DOMAIN-KEYWORD,openrouter
+  - DOMAIN-KEYWORD,cerebras
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,fireworks
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,cursor
+  - DOMAIN-KEYWORD,huggingface
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,copilot
+  - DOMAIN-KEYWORD,perplexity
+  - DOMAIN-KEYWORD,poe
+  - DOMAIN-KEYWORD,character
+  - DOMAIN-KEYWORD,midjourney
+  - DOMAIN-KEYWORD,stability
+  - DOMAIN-KEYWORD,runway
+  - DOMAIN-KEYWORD,elevenlabs
+  - DOMAIN-KEYWORD,notion
+  - DOMAIN-KEYWORD,grammarly
+  - DOMAIN-KEYWORD,jasper
+  - DOMAIN-KEYWORD,copy
+  - DOMAIN-KEYWORD,writesonic
+  - DOMAIN-KEYWORD,surfer
+  - DOMAIN-KEYWORD,forgecode
+
+  # Github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,github.io
