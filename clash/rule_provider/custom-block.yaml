@@ -83,12 +83,15 @@ payload:
   - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads.huawei.com
   - DOMAIN-SUFFIX,ads.roku.com
+  - DOMAIN-SUFFIX,advertising.apple.com
   - DOMAIN-SUFFIX,api.fyber.com
   - DOMAIN-SUFFIX,api.impact.com
   - DOMAIN-SUFFIX,api.partnerstack.com
   - DOMAIN-SUFFIX,api.refersion.com
   - DOMAIN-SUFFIX,api.taboola.com
+  - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,bat.bing.com
+  - DOMAIN-SUFFIX,c.bing.com
   - DOMAIN-SUFFIX,cdn.taboola.com
   - DOMAIN-SUFFIX,d.applovin.com
   - DOMAIN-SUFFIX,d.impactradius-event.com
@@ -98,6 +101,8 @@ payload:
   - DOMAIN-SUFFIX,impact.com
   - DOMAIN-SUFFIX,init.supersonicads.com
   - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,ironsource.mobi
+  - DOMAIN-SUFFIX,is.com
   - DOMAIN-SUFFIX,liftoff.io
   - DOMAIN-SUFFIX,mads-eu.amazon.com
   - DOMAIN-SUFFIX,mc.yandex.ru
@@ -106,14 +111,18 @@ payload:
   - DOMAIN-SUFFIX,openx.net
   - DOMAIN-SUFFIX,outcome-ssp.supersonicads.com
   - DOMAIN-SUFFIX,pangleglobal.com
+  - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,redirector.googlevideo.com
   - DOMAIN-SUFFIX,rt.applovin.com
   - DOMAIN-SUFFIX,rtb.openx.net
   - DOMAIN-SUFFIX,s.youtube.com
+  - DOMAIN-SUFFIX,simage2.pubmatic.com
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-SUFFIX,t.skimresources.com
   - DOMAIN-SUFFIX,trc.taboola.com
   - DOMAIN-SUFFIX,u.openx.net
+  - DOMAIN-SUFFIX,udc.yahoo.com
+  - DOMAIN-SUFFIX,udcm.yahoo.com
   - DOMAIN-SUFFIX,us-ads.openx.net
   - DOMAIN-SUFFIX,youtubei.googleapis.com
   - DOMAIN-SUFFIX,zenaps.com
@@ -122,23 +131,41 @@ payload:
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.segment.io
   - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,app.posthog.com
   - DOMAIN-SUFFIX,c.clarity.ms
+  - DOMAIN-SUFFIX,cdn.rudderlabs.com
+  - DOMAIN-SUFFIX,cdn.segment.com
+  - DOMAIN-SUFFIX,eu.posthog.com
+  - DOMAIN-SUFFIX,posthog.com
   - DOMAIN-SUFFIX,s.clarity.ms
+  - DOMAIN-SUFFIX,us.i.posthog.com
 
   # Tracking & Fingerprinting
+  - DOMAIN-SUFFIX,api.onesignal.com
   - DOMAIN-SUFFIX,app.adjust.com
   - DOMAIN-SUFFIX,app.appsflyer.com
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,bnc.lt
+  - DOMAIN-SUFFIX,browser.events.data.msn.com
+  - DOMAIN-SUFFIX,cdn.lr-ingest.com
   - DOMAIN-SUFFIX,cdn.siftscience.com
   - DOMAIN-SUFFIX,clevertap-prod.com
+  - DOMAIN-SUFFIX,clientstream.launchdarkly.com
   - DOMAIN-SUFFIX,d.reddit.com
+  - DOMAIN-SUFFIX,edge.fullstory.com
+  - DOMAIN-SUFFIX,events.launchdarkly.com
   - DOMAIN-SUFFIX,events.reddit.com
   - DOMAIN-SUFFIX,graph.facebook.com
   - DOMAIN-SUFFIX,i.instagram.com
+  - DOMAIN-SUFFIX,js-agent.newrelic.com
+  - DOMAIN-SUFFIX,o0.ingest.sentry.io
   - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,px.srvcs.tumblr.com
+  - DOMAIN-SUFFIX,qevents.quora.com
+  - DOMAIN-SUFFIX,r.lr-ingest.com
+  - DOMAIN-SUFFIX,siftscience.com
   - DOMAIN-SUFFIX,sync.mathtag.com
+  - DOMAIN-SUFFIX,tagmanager.google.com
   - DOMAIN-SUFFIX,thetradedesk.com
   - DOMAIN-SUFFIX,tr.facebook.com
   - DOMAIN-SUFFIX,connect.facebook.net
@@ -162,10 +189,14 @@ payload:
   - DOMAIN-SUFFIX,app.usercentrics.eu
   - DOMAIN-SUFFIX,cdn.cookielaw.org
   - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+  - DOMAIN-SUFFIX,cmp.osano.com
   - DOMAIN-SUFFIX,consent.cookiebot.com
   - DOMAIN-SUFFIX,consent.trustarc.com
   - DOMAIN-SUFFIX,consentcdn.cookiebot.com
+  - DOMAIN-SUFFIX,cookiebot.com
+  - DOMAIN-SUFFIX,fundingchoicesmessages.google.com
   - DOMAIN-SUFFIX,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,privacyportal.onetrust.com
   - DOMAIN-SUFFIX,sdk.privacy-center.org
 
   # Affiliate Networks
@@ -174,11 +205,18 @@ payload:
   - DOMAIN-SUFFIX,api.refersion.com
   - DOMAIN-SUFFIX,d.impactradius-event.com
   - DOMAIN-SUFFIX,impact.com
+  - DOMAIN-SUFFIX,partnerstack.com
+  - DOMAIN-SUFFIX,refersion.com
   - DOMAIN-SUFFIX,t.skimresources.com
+  - DOMAIN-SUFFIX,www.tkqlhce.com
   - DOMAIN-SUFFIX,zenaps.com
 
   # Email & Live Chat Trackers
+  - DOMAIN-SUFFIX,click.mailchimp.com
   - DOMAIN-SUFFIX,js.driftt.com
+  - DOMAIN-SUFFIX,klaviyo.com
+  - DOMAIN-SUFFIX,munchkin.marketo.net
+  - DOMAIN-SUFFIX,track.customer.io
   - DOMAIN-SUFFIX,widget.intercom.io
 
   # Video Ads
@@ -199,6 +237,7 @@ payload:
   - DOMAIN-SUFFIX,px.srvcs.tumblr.com
   - DOMAIN-SUFFIX,tr.facebook.com
   - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,widgets.pinterest.com
 
   # IP block
   - IP-CIDR,34.149.50.148/32
