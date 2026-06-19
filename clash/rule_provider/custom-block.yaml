@@ -1,11 +1,4 @@
-#custom blocklist
 Payload:
-  #- IP-CIDR,202.158.60.224/24
-  #- DOMAIN-SUFFIX,report-api.mumuplayer.com
-  #- DOMAIN-SUFFIX,update.3j2y.com
-  #- DOMAIN-SUFFIX,i.topbos.com
-  #- DOMAIN-SUFFIX,update.topbos.com
-  
   # LDPlayer & tracking
   - DOMAIN,hmma.baidu.com
   - DOMAIN,api.mumuglobal.com
@@ -27,7 +20,11 @@ Payload:
   - DOMAIN,middledata.ldmnq.com
   - DOMAIN,advertise.ldplayer.net
   - DOMAIN,middledata.ldplayer.net
-
+  #- IP-CIDR,202.158.60.224/24
+  #- DOMAIN-SUFFIX,report-api.mumuplayer.com
+  #- DOMAIN-SUFFIX,update.3j2y.com
+  #- DOMAIN-SUFFIX,i.topbos.com
+  #- DOMAIN-SUFFIX,update.topbos.com
   # CDN tracking
   - DOMAIN,dldgmpfyeblzc.cloudfront.net
   - DOMAIN,dn2sifz9m7tkk.cloudfront.net
