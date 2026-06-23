@@ -10,3 +10,11 @@ payload:
   - DOMAIN,route53domains.us-east-1.amazonaws.com
   - DOMAIN,us-east-1.ctrl.prod.os.notifications.aws.dev
   - DOMAIN,uxc.us-east-1.api.aws
+  - DOMAIN-SUFFIX,console.api.aws
+  - DOMAIN-SUFFIX,api.aws
+  - DOMAIN-SUFFIX,aws.dev
+  - DOMAIN-SUFFIX,awsstatic.com
+  - DOMAIN-SUFFIX,aws.amazon.com
+  - DOMAIN-SUFFIX,console.aws.amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,a2z.com
