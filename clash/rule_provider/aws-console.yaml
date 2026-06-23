@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN,ap-southeast-1.ccs.console.api.aws
+  - DOMAIN,ap-southeast-1.ctrl.prod.os.notifications.aws.dev
+  - DOMAIN,ap-southeast-1.lightsail.aws.amazon.com
+  - DOMAIN,ap-southeast-1.prod.pl.panorama.console.api.aws
+  - DOMAIN,cell-0.ap-southeast-1.prod.telemetry.console.api.aws
+  - DOMAIN,cell-1.ap-southeast-1.prod.telemetry.console.api.aws
+  - DOMAIN,continuum.console.api.aws
+  - DOMAIN,prod.log.shortbread.console.api.aws
+  - DOMAIN,route53domains.us-east-1.amazonaws.com
+  - DOMAIN,us-east-1.ctrl.prod.os.notifications.aws.dev
+  - DOMAIN,uxc.us-east-1.api.aws
