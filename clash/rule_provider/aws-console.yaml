@@ -1,20 +1,63 @@
 payload:
-  - DOMAIN,ap-southeast-1.ccs.console.api.aws
-  - DOMAIN,ap-southeast-1.ctrl.prod.os.notifications.aws.dev
-  - DOMAIN,ap-southeast-1.lightsail.aws.amazon.com
-  - DOMAIN,ap-southeast-1.prod.pl.panorama.console.api.aws
-  - DOMAIN,cell-0.ap-southeast-1.prod.telemetry.console.api.aws
-  - DOMAIN,cell-1.ap-southeast-1.prod.telemetry.console.api.aws
-  - DOMAIN,continuum.console.api.aws
-  - DOMAIN,prod.log.shortbread.console.api.aws
-  - DOMAIN,route53domains.us-east-1.amazonaws.com
-  - DOMAIN,us-east-1.ctrl.prod.os.notifications.aws.dev
-  - DOMAIN,uxc.us-east-1.api.aws
+  # AWS Console / UI / internal console API
   - DOMAIN-SUFFIX,console.api.aws
   - DOMAIN-SUFFIX,api.aws
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,aws.amazon.com
   - DOMAIN-SUFFIX,console.aws.amazon.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,a2z.com
+  - DOMAIN-SUFFIX,lightsail.aws.amazon.com
+
+  # AWS regional service endpoints - Africa
+  - DOMAIN-SUFFIX,af-south-1.amazonaws.com
+
+  # AWS regional service endpoints - Asia Pacific
+  - DOMAIN-SUFFIX,ap-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,ap-east-2.amazonaws.com
+  - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,ap-northeast-2.amazonaws.com
+  - DOMAIN-SUFFIX,ap-northeast-3.amazonaws.com
+  - DOMAIN-SUFFIX,ap-south-1.amazonaws.com
+  - DOMAIN-SUFFIX,ap-south-2.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-2.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-3.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-4.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-5.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-6.amazonaws.com
+  - DOMAIN-SUFFIX,ap-southeast-7.amazonaws.com
+
+  # AWS regional service endpoints - Canada
+  - DOMAIN-SUFFIX,ca-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,ca-west-1.amazonaws.com
+
+  # AWS regional service endpoints - Europe
+  - DOMAIN-SUFFIX,eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,eu-central-2.amazonaws.com
+  - DOMAIN-SUFFIX,eu-north-1.amazonaws.com
+  - DOMAIN-SUFFIX,eu-south-1.amazonaws.com
+  - DOMAIN-SUFFIX,eu-south-2.amazonaws.com
+  - DOMAIN-SUFFIX,eu-west-1.amazonaws.com
+  - DOMAIN-SUFFIX,eu-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,eu-west-3.amazonaws.com
+
+  # AWS regional service endpoints - Israel / Middle East
+  - DOMAIN-SUFFIX,il-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,me-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,me-south-1.amazonaws.com
+
+  # AWS regional service endpoints - Mexico
+  - DOMAIN-SUFFIX,mx-central-1.amazonaws.com
+
+  # AWS regional service endpoints - South America
+  - DOMAIN-SUFFIX,sa-east-1.amazonaws.com
+
+  # AWS regional service endpoints - United States
+  - DOMAIN-SUFFIX,us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,us-east-2.amazonaws.com
+  - DOMAIN-SUFFIX,us-west-1.amazonaws.com
+  - DOMAIN-SUFFIX,us-west-2.amazonaws.com
+
+  # Disable this rule if u wanna block ads and tracking 
+  #- DOMAIN-SUFFIX,amazonaws.com
+  #- DOMAIN-SUFFIX,a2z.com
