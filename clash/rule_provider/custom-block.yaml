@@ -1,4 +1,15 @@
 payload:
+  # ==========================================
+  # DISABLED: Sosmed / Facebook / Instagram
+  # (Dimatikan karena mengganggu kolom komentar, feed & login)
+  # ==========================================
+  # - DOMAIN,graph.facebook.com
+  # - DOMAIN-SUFFIX,graph.facebook.com
+  # - DOMAIN-SUFFIX,connect.facebook.net
+  # - DOMAIN-SUFFIX,tr.facebook.com
+  # - DOMAIN-SUFFIX,i.instagram.com
+  # - DOMAIN-SUFFIX,graph.instagram.com
+
   # LDPlayer & tracking
   - DOMAIN,hmma.baidu.com
   - DOMAIN,api.mumuglobal.com
@@ -15,7 +26,7 @@ payload:
   - DOMAIN,appstore.ldmnq.com
   - DOMAIN,encdn.ldplayer.com
   - DOMAIN,adabdapi.ldmnq.com
-  - DOMAIN,graph.facebook.com
+  # - DOMAIN,graph.facebook.com
   - DOMAIN,android.bugly.qq.com
   - DOMAIN,middledata.ldmnq.com
   - DOMAIN,advertise.ldplayer.net
@@ -155,8 +166,8 @@ payload:
   - DOMAIN-SUFFIX,edge.fullstory.com
   - DOMAIN-SUFFIX,events.launchdarkly.com
   - DOMAIN-SUFFIX,events.reddit.com
-  - DOMAIN-SUFFIX,graph.facebook.com
-  - DOMAIN-SUFFIX,i.instagram.com
+  # - DOMAIN-SUFFIX,graph.facebook.com
+  # - DOMAIN-SUFFIX,i.instagram.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,o0.ingest.sentry.io
   - DOMAIN-SUFFIX,prod.uidapi.com
@@ -167,8 +178,8 @@ payload:
   - DOMAIN-SUFFIX,sync.mathtag.com
   - DOMAIN-SUFFIX,tagmanager.google.com
   - DOMAIN-SUFFIX,thetradedesk.com
-  - DOMAIN-SUFFIX,tr.facebook.com
-  - DOMAIN-SUFFIX,connect.facebook.net
+  # - DOMAIN-SUFFIX,tr.facebook.com
+  # - DOMAIN-SUFFIX,connect.facebook.net
   - DOMAIN-SUFFIX,ads.vk.com
   - DOMAIN-SUFFIX,vk.com
 
@@ -228,14 +239,14 @@ payload:
   - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads.vk.com
   - DOMAIN-SUFFIX,ads.x.com
-  - DOMAIN-SUFFIX,connect.facebook.net
+  # - DOMAIN-SUFFIX,connect.facebook.net
   - DOMAIN-SUFFIX,d.reddit.com
   - DOMAIN-SUFFIX,events.reddit.com
-  - DOMAIN-SUFFIX,graph.facebook.com
-  - DOMAIN-SUFFIX,graph.instagram.com
-  - DOMAIN-SUFFIX,i.instagram.com
+  # - DOMAIN-SUFFIX,graph.facebook.com
+  # - DOMAIN-SUFFIX,graph.instagram.com
+  # - DOMAIN-SUFFIX,i.instagram.com
   - DOMAIN-SUFFIX,px.srvcs.tumblr.com
-  - DOMAIN-SUFFIX,tr.facebook.com
+  # - DOMAIN-SUFFIX,tr.facebook.com
   - DOMAIN-SUFFIX,vk.com
   - DOMAIN-SUFFIX,widgets.pinterest.com
 

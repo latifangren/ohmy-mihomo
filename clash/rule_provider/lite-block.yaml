@@ -5,10 +5,17 @@
 # IP-CIDR6: 0
 # TOTAL: 15922
 payload:
+ # ==========================================
+ # DISABLED: Terlalu strict (mengganggu sosmed)
+ # ==========================================
+ # - DOMAIN-KEYWORD,analytics
+ # - DOMAIN-KEYWORD,pixel
+ # - DOMAIN-KEYWORD,metrics
+
  - DOMAIN-KEYWORD,adservice
  - DOMAIN-KEYWORD,adserver
  - DOMAIN-KEYWORD,advertising
- - DOMAIN-KEYWORD,analytics
+ # - DOMAIN-KEYWORD,analytics
  - DOMAIN-KEYWORD,doubleclick
  - DOMAIN-KEYWORD,googlead
  - DOMAIN-KEYWORD,googlesyndication
@@ -17,11 +24,11 @@ payload:
  - DOMAIN-KEYWORD,googletagservices
  - DOMAIN-KEYWORD,quantserve
  - DOMAIN-KEYWORD,scorecardresearch
- - DOMAIN-KEYWORD,pixel
+ # - DOMAIN-KEYWORD,pixel
  - DOMAIN-KEYWORD,tracking
  - DOMAIN-KEYWORD,tracker
  - DOMAIN-KEYWORD,telemetry
- - DOMAIN-KEYWORD,metrics
+ # - DOMAIN-KEYWORD,metrics
  - DOMAIN-KEYWORD,counter
  - DOMAIN-KEYWORD,beacon
  - DOMAIN-KEYWORD,targeting
