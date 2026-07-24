@@ -33,9 +33,9 @@ payload:
   - DOMAIN,middledata.ldplayer.net
   - IP-CIDR,202.158.60.224/24
   - DOMAIN-SUFFIX,report-api.mumuplayer.com
-  - DOMAIN-SUFFIX,update.3j2y.com
-  - DOMAIN-SUFFIX,i.topbos.com
-  - DOMAIN-SUFFIX,update.topbos.com
+  #- DOMAIN-SUFFIX,update.3j2y.com
+  #- DOMAIN-SUFFIX,i.topbos.com
+  #- DOMAIN-SUFFIX,update.topbos.com
   - DOMAIN-SUFFIX,mumu-global.fp.ps.easebar.com
   # Analytics & Tracking
   - DOMAIN-SUFFIX,adfstat.yandex.ru
