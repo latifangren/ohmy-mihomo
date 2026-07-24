@@ -36,7 +36,7 @@ payload:
   - DOMAIN-SUFFIX,update.3j2y.com
   - DOMAIN-SUFFIX,i.topbos.com
   - DOMAIN-SUFFIX,update.topbos.com
-
+  - DOMAIN-SUFFIX,mumu-global.fp.ps.easebar.com
   # Analytics & Tracking
   - DOMAIN-SUFFIX,adfstat.yandex.ru
   - DOMAIN-SUFFIX,adfox.yandex.ru
