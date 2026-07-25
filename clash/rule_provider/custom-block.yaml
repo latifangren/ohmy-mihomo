@@ -31,7 +31,7 @@ payload:
   - DOMAIN,middledata.ldmnq.com
   - DOMAIN,advertise.ldplayer.net
   - DOMAIN,middledata.ldplayer.net
-  - IP-CIDR,202.158.60.224/24
+  #- IP-CIDR,202.158.60.224/24
   - DOMAIN-SUFFIX,report-api.mumuplayer.com
   #- DOMAIN-SUFFIX,update.3j2y.com
   #- DOMAIN-SUFFIX,i.topbos.com
@@ -176,7 +176,7 @@ payload:
   - DOMAIN-SUFFIX,r.lr-ingest.com
   - DOMAIN-SUFFIX,siftscience.com
   - DOMAIN-SUFFIX,sync.mathtag.com
-  - DOMAIN-SUFFIX,tagmanager.google.com
+  #- DOMAIN-SUFFIX,tagmanager.google.com
   - DOMAIN-SUFFIX,thetradedesk.com
   # - DOMAIN-SUFFIX,tr.facebook.com
   # - DOMAIN-SUFFIX,connect.facebook.net
@@ -205,7 +205,7 @@ payload:
   - DOMAIN-SUFFIX,consent.trustarc.com
   - DOMAIN-SUFFIX,consentcdn.cookiebot.com
   - DOMAIN-SUFFIX,cookiebot.com
-  - DOMAIN-SUFFIX,fundingchoicesmessages.google.com
+  #- DOMAIN-SUFFIX,fundingchoicesmessages.google.com
   - DOMAIN-SUFFIX,geolocation.onetrust.com
   - DOMAIN-SUFFIX,privacyportal.onetrust.com
   - DOMAIN-SUFFIX,sdk.privacy-center.org
@@ -232,7 +232,7 @@ payload:
 
   # Video Ads
   - DOMAIN-SUFFIX,dai.google.com
-  - DOMAIN-SUFFIX,imasdk.googleapis.com
+  #- DOMAIN-SUFFIX,imasdk.googleapis.com
   - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
 
   # Social Trackers
