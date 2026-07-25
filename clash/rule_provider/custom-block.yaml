@@ -231,9 +231,9 @@ payload:
   - DOMAIN-SUFFIX,widget.intercom.io
 
   # Video Ads
-  - DOMAIN-SUFFIX,dai.google.com
+  #- DOMAIN-SUFFIX,dai.google.com
   #- DOMAIN-SUFFIX,imasdk.googleapis.com
-  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com
+  #- DOMAIN-SUFFIX,ssl.p.jwpcdn.com
 
   # Social Trackers
   - DOMAIN-SUFFIX,ads-api.x.com
@@ -251,6 +251,6 @@ payload:
   - DOMAIN-SUFFIX,widgets.pinterest.com
 
   # IP block
-  - IP-CIDR,34.149.50.148/32
-  - IP-CIDR,3.165.84.69/32
-  - IP-CIDR,104.18.51.234/32
+  #- IP-CIDR,34.149.50.148/32
+  #- IP-CIDR,3.165.84.69/32
+  #- IP-CIDR,104.18.51.234/32
