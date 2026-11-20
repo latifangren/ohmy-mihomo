@@ -18,17 +18,17 @@ payload:
 # - DOMAIN-KEYWORD,tracking
 # - DOMAIN-KEYWORD,telemetry
 
-  - DOMAIN-KEYWORD,adserver
-  - DOMAIN-KEYWORD,advertising
-  - DOMAIN-KEYWORD,google-analytics
-  - DOMAIN-KEYWORD,googletagmanager
-  - DOMAIN-KEYWORD,googletagservices
-  - DOMAIN-KEYWORD,quantserve
-  - DOMAIN-KEYWORD,scorecardresearch
-  - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,counter
-  - DOMAIN-KEYWORD,beacon
-  - DOMAIN-KEYWORD,targeting
+ - DOMAIN-KEYWORD,adserver
+ - DOMAIN-KEYWORD,advertising
+ - DOMAIN-KEYWORD,google-analytics
+ - DOMAIN-KEYWORD,googletagmanager
+ - DOMAIN-KEYWORD,googletagservices
+ - DOMAIN-KEYWORD,quantserve
+ - DOMAIN-KEYWORD,scorecardresearch
+ - DOMAIN-KEYWORD,tracker
+ - DOMAIN-KEYWORD,counter
+ - DOMAIN-KEYWORD,beacon
+ - DOMAIN-KEYWORD,targeting
  # - DOMAIN-KEYWORD,metrics
  - DOMAIN-KEYWORD,counter
  - DOMAIN-KEYWORD,beacon
